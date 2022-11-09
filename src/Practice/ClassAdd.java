@@ -9,5 +9,7 @@ public void add()
 public void mul()
 {
 	System.out.println(" Mul");
+	System.out.println("multiplication");
 }
+
 }
