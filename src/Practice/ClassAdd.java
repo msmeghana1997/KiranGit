@@ -7,4 +7,8 @@ public void add()
 	System.out.println("multiply");
 	System.out.println("Divide");
 }
+public void mul()
+{
+	System.out.println(" Mul");
+}
 }
