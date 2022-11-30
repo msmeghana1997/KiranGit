@@ -11,6 +11,7 @@ public void mul()
 {
 	System.out.println(" Mul");
 	System.out.println("multiplication");
+	System.out.println("hiiiii");
 }
 
 }
